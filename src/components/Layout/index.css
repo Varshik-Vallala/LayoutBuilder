@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.layout {
+  /* padding: 8px 16px; */
+  padding: 20px 16px;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}

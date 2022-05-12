@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.body-container {
+  display: flex;
+  width: 90%;
+  /* max-width: 1110px; */
+  margin: 0;
+}
+.left-navbar {
+  min-width: 33.3%;
+  background: #e2e8f0;
+  margin: 4px 4px 4px 0;
+  height: 48vh;
+}
+.content {
+  min-width: 33.3%;
+  max-width: 100%;
+  /* flex-wrap: wrap; */
+  background: #f1f5f9;
+  margin: 4px 4px 4px 0;
+  height: 48vh;
+}
+.right-navbar {
+  min-width: 33.3%;
+  background: #e2e8f0;
+  margin: 4px 4px 4px 0;
+  height: 48vh;
+}

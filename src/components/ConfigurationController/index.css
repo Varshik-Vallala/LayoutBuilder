@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.layout-container {
+  background: #475569;
+  color: #fff;
+  padding: 2px 90px;
+  font-family: 'Roboto';
+}
+.heading {
+  margin: 0;
+}
+.check-box-list {
+  list-style-type: none;
+  padding: 0;
+}
